@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJM/nUB9eY6KvJvTY1NtZkNujxfNTjPCj/gb1s9k4QFKbT4+XSzk6g3ahFgiwxYWa6kzhDoM+lGm/juM+S4udA==",
+  "dgSpecHash": "sytEEGhzQ9/QWSLe4jYvdqz3lfnV8MnR03CHiS/TTflzKFB5XkLv9WY66UI65FrzHC0X5oI6hffIeNVUv1OL5w==",
   "success": true,
-  "projectFilePath": "D:\\Для учебы\\TaskCraft\\TaskCraft\\TaskCraft.csproj",
+  "projectFilePath": "D:\\Для учебы\\TaskCraft\\taskcraft\\TaskCraft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dedushka\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dedushka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

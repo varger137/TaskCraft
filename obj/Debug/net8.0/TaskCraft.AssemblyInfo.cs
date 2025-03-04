@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a6c87b42931403a67bca0c8e4e05ef40c55a0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

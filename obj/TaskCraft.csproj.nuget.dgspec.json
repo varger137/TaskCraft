@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Для учебы\\TaskCraft\\TaskCraft\\TaskCraft.csproj": {}
+    "D:\\Для учебы\\TaskCraft\\taskcraft\\TaskCraft.csproj": {}
   },
   "projects": {
-    "D:\\Для учебы\\TaskCraft\\TaskCraft\\TaskCraft.csproj": {
+    "D:\\Для учебы\\TaskCraft\\taskcraft\\TaskCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Для учебы\\TaskCraft\\TaskCraft\\TaskCraft.csproj",
+        "projectUniqueName": "D:\\Для учебы\\TaskCraft\\taskcraft\\TaskCraft.csproj",
         "projectName": "TaskCraft",
-        "projectPath": "D:\\Для учебы\\TaskCraft\\TaskCraft\\TaskCraft.csproj",
+        "projectPath": "D:\\Для учебы\\TaskCraft\\taskcraft\\TaskCraft.csproj",
         "packagesPath": "C:\\Users\\dedushka\\.nuget\\packages\\",
-        "outputPath": "D:\\Для учебы\\TaskCraft\\TaskCraft\\obj\\",
+        "outputPath": "D:\\Для учебы\\TaskCraft\\taskcraft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dedushka\\AppData\\Roaming\\NuGet\\NuGet.Config",
